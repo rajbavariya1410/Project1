@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "id": "9655",
+      "category": "men's items",
+      "proname": "Sports Shoes",
+      "prodetail": "White sneaker isolated on white background, men's fashion, sport shoe, air, sneakers, lifestyle, concept, product photo, levitation concept, street wear, trainer",
+      "proprice": "2999",
+      "pronewprice": "999",
+      "prophoto": "https://media.istockphoto.com/id/1688015574/photo/white-sneaker-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=gz8bGn7h_eaF4uJGJjdZYYhJDrrigHAygo2Vi8tZjH8="
+    },
+    {
+      "id": "d171",
+      "category": "men's items",
+      "proname": "Nike Men's Downshifter",
+      "prodetail": "Nike Men's Downshifter 13 Road Running Shoes",
+      "proprice": "5999",
+      "pronewprice": "2999",
+      "prophoto": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQeBLsTCNo6U3C9_B4cfgNoQ6a3AmBcdUQ2Vmic_PW5GTNu3l3Jd4ZwyJfj72fRugaUHE5WcJDQtOYJf2mAuu5-6MMMn7T_CLijW6Traju2G75OXt1ls7dG-Aw"
+    },
+    {
+      "id": "c6ca",
+      "category": "men's items",
+      "proname": "campus mike",
+      "prodetail": "Campus Mike N Running Shoes For Men",
+      "proprice": "3999",
+      "pronewprice": "1199",
+      "prophoto": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQRKcHF0UqjFpWhEpqeoemmZTAfYfsXyxnbvpSsvZcb1dUbLt_wby32gdFmGIzt5zB7g9GUIQsVMzsokMxpxsO2lVfwWdm1fn1ik3OC1Y5MNlxEaOTDw2eMw"
+    },
+    {
+      "id": "ca98",
+      "category": "men's items",
+      "proname": "Men's Ethnic Embroidered",
+      "prodetail": "House of Pataudi Men's Ethnic Embroidered Slip On Mojaris Shoes",
+      "proprice": "2999",
+      "pronewprice": "999",
+      "prophoto": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT9YrQHQ-kFZxUkA6yjC-x1eiZ8u89uCT9fdwJVez1eYnu2XWFiebJ0S0WwDWXhGr3XCTQt4fX-iLeNO0RfiVmbf7Z745dTsf1cM8jdBNqI"
+    },
+    {
+      "category": "men's items",
+      "proname": "Green Floral Embroidery",
+      "prodetail": "\nMen Pista Green Floral Embroidery Ethnic Slip On Juttis and Mojaris for Wedding|Party Slip-On|Traditional Kurtas Shoes",
+      "proprice": "3999",
+      "pronewprice": "1499",
+      "prophoto": "https://fausto.in/cdn/shop/files/FST_KI-3628E_PISTA_GREEN_1_4ed6b549-5f40-4798-9f4a-3ccbeeb06226_400x.jpg?v=1726410747",
+      "id": "0368"
+    },
+    {
+      "id": "d9f5",
+      "category": "men's items",
+      "proname": "Noir Black Washed Baggy Fit Jean",
+      "prodetail": "This is our Latest baggy fit jean for men which is designed very few in amount and can be gone away any moment. Hurry Up! Or you may loose the one and only chance.",
+      "proprice": "1999",
+      "pronewprice": "999",
+      "prophoto": "https://bofrike.in/wp-content/uploads/2024/03/Noir-baggy-Jean1-1-510x612.jpg"
+    },
+    {
+      "id": "3d2e",
+      "category": "men's items",
+      "proname": "MADZEE STREET START RIPPED DENIM JEANS",
+      "prodetail": "100% Cotton Denim\nRipped Denim Cargo\nPerfectly Toned\nBaggy Fit",
+      "proprice": "2500",
+      "pronewprice": "1499",
+      "prophoto": "https://groovee.in/cdn/shop/files/groove-pant-2c.jpg?v=1740074814&width=900"
+    },
+    {
+      "id": "a918",
+      "category": "men's items",
+      "proname": "RSQ Mens Baggy Jeans",
+      "prodetail": "RSQ Baggy Jeans. Traditional 5-pocket denim styling. Button closure with zipper fly. Belt loop waist. Baggy fit. Light wash. Approximate leg opening: 18\". 93% Cotton 4% Polyester 3% Rayon. Machine wash. Imported.",
+      "proprice": "4999",
+      "pronewprice": "2999",
+      "prophoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwF6NojorDlv779hpv51WyoWrzQzgNTAiRw&s"
+    },
+    {
+      "category": "men's items",
+      "proname": "Men Heavily Washed Baggy Jeans",
+      "prodetail": "Casual,Blue,100% cotton,Machine wash",
+      "proprice": "3999",
+      "pronewprice": "1999",
+      "prophoto": "https://assets.ajio.com/medias/sys_master/root/20240724/JRA6/66a101731d763220fa1a83bd/-473Wx593H-700226019-blue-MODEL.jpg",
+      "id": "521c"
+    },
+    {
+      "category": "men's items",
+      "proname": "Cargo Style Baggy Jeans",
+      "prodetail": "Side Insert Pockets, Back Pockets, Flap Pockets, Cargo Style.",
+      "proprice": "2000",
+      "pronewprice": "999",
+      "prophoto": "https://assets.sheinindia.in/medias/shein_sys_master/root/20250303/FgKQ/67c5a58259f83539801403a4/-473Wx593H-443320452-lightblue-MODEL.jpg",
+      "id": "94a6"
+    }
+  ],
+  "cart": [
+    {
+      "id": "5572",
+      "proname": "Men's Ethnic Embroidered",
+      "prodetail": "House of Pataudi Men's Ethnic Embroidered Slip On Mojaris Shoes",
+      "proprice": "2999",
+      "pronewprice": "999",
+      "imgurl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT9YrQHQ-kFZxUkA6yjC-x1eiZ8u89uCT9fdwJVez1eYnu2XWFiebJ0S0WwDWXhGr3XCTQt4fX-iLeNO0RfiVmbf7Z745dTsf1cM8jdBNqI",
+      "prophoto": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT9YrQHQ-kFZxUkA6yjC-x1eiZ8u89uCT9fdwJVez1eYnu2XWFiebJ0S0WwDWXhGr3XCTQt4fX-iLeNO0RfiVmbf7Z745dTsf1cM8jdBNqI"
+    }
+  ],
+  "orders": [
+    {
+      "id": "8347",
+      "items": [
+        {
+          "id": "0063",
+          "proname": "campus mike",
+          "prodetail": "Campus Mike N Running Shoes For Men",
+          "proprice": "3999",
+          "pronewprice": "1199",
+          "imgurl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQRKcHF0UqjFpWhEpqeoemmZTAfYfsXyxnbvpSsvZcb1dUbLt_wby32gdFmGIzt5zB7g9GUIQsVMzsokMxpxsO2lVfwWdm1fn1ik3OC1Y5MNlxEaOTDw2eMw",
+          "prophoto": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQRKcHF0UqjFpWhEpqeoemmZTAfYfsXyxnbvpSsvZcb1dUbLt_wby32gdFmGIzt5zB7g9GUIQsVMzsokMxpxsO2lVfwWdm1fn1ik3OC1Y5MNlxEaOTDw2eMw"
+        }
+      ],
+      "subtotal": 1199,
+      "shipping": 50,
+      "total": 1249,
+      "name": "bavariya raj",
+      "address": "harbhole, society, gondal, gujrat",
+      "city": "gondal",
+      "zip": "360311"
+    },
+    {
+      "id": "ccea",
+      "items": [
+        {
+          "id": "2a1d",
+          "proname": "Nike Men's Downshifter",
+          "prodetail": "Nike Men's Downshifter 13 Road Running Shoes",
+          "proprice": "5999",
+          "pronewprice": "2999",
+          "imgurl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQeBLsTCNo6U3C9_B4cfgNoQ6a3AmBcdUQ2Vmic_PW5GTNu3l3Jd4ZwyJfj72fRugaUHE5WcJDQtOYJf2mAuu5-6MMMn7T_CLijW6Traju2G75OXt1ls7dG-Aw",
+          "prophoto": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQeBLsTCNo6U3C9_B4cfgNoQ6a3AmBcdUQ2Vmic_PW5GTNu3l3Jd4ZwyJfj72fRugaUHE5WcJDQtOYJf2mAuu5-6MMMn7T_CLijW6Traju2G75OXt1ls7dG-Aw"
+        }
+      ],
+      "subtotal": 2999,
+      "shipping": 50,
+      "total": 3049,
+      "name": "Amit rathid",
+      "address": "150 feet ring road,rajkot",
+      "city": "rajkot",
+      "zip": "360334"
+    },
+    {
+      "id": "ff4e",
+      "items": [
+        {
+          "id": "52e8",
+          "proname": "Men Heavily Washed Baggy Jeans",
+          "prodetail": "Casual,Blue,100% cotton,Machine wash",
+          "proprice": "3999",
+          "pronewprice": "1999",
+          "imgurl": "https://assets.ajio.com/medias/sys_master/root/20240724/JRA6/66a101731d763220fa1a83bd/-473Wx593H-700226019-blue-MODEL.jpg",
+          "prophoto": "https://assets.ajio.com/medias/sys_master/root/20240724/JRA6/66a101731d763220fa1a83bd/-473Wx593H-700226019-blue-MODEL.jpg"
+        },
+        {
+          "id": "79a7",
+          "proname": "Sports Shoes",
+          "prodetail": "White sneaker isolated on white background, men's fashion, sport shoe, air, sneakers, lifestyle, concept, product photo, levitation concept, street wear, trainer",
+          "proprice": "2999",
+          "pronewprice": "999",
+          "imgurl": "https://media.istockphoto.com/id/1688015574/photo/white-sneaker-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=gz8bGn7h_eaF4uJGJjdZYYhJDrrigHAygo2Vi8tZjH8=",
+          "prophoto": "https://media.istockphoto.com/id/1688015574/photo/white-sneaker-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=gz8bGn7h_eaF4uJGJjdZYYhJDrrigHAygo2Vi8tZjH8="
+        }
+      ],
+      "subtotal": 2998,
+      "shipping": 50,
+      "total": 3048,
+      "name": "Alpesh sakaliya",
+      "address": "150 feet ring road,rajkot",
+      "city": "rajkot",
+      "zip": "360334"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "9a3f",
+      "name": "bavariya raj",
+      "email": "rajbavariya1410@gmail.com",
+      "message": "\"Hello, I’m facing an issue while placing my order. Could you please help me?"
+    },
+    {
+      "id": "b2a8",
+      "name": "Amit rathod",
+      "email": "amitrathod@gmail.com",
+      "message": "I’m facing an issue while completing my order payment. The transaction isn’t going through, and I’m unable to place my order."
+    }
+  ]
+}
